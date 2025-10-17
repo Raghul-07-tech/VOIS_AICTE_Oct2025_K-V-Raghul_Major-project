@@ -1,4 +1,4 @@
-# 📊 Netflix Data Analysis Project
+# Netflix Data Analysis Project
 
 **Project Title:** Content Trends Analysis for Strategic Recommendations in Netflix  
 **Author:** K. V. Raghul  
